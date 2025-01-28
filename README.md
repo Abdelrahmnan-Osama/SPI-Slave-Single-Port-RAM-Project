@@ -50,4 +50,3 @@ The project includes:
 
 ## Results
 - Coverage reports for code, functional, and sequential domains.
-- Detailed bug report with RTL recommendations.
