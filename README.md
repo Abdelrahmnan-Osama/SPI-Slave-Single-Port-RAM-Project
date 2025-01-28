@@ -46,7 +46,7 @@ The project includes:
 ## How to Run
 1. Clone the repository.
 2. Open in QuestaSim.
-3. Run the `wrap.do` file to automate the tests and generate reports.
+3. Run the `wrapper/wrap.do` file to automate the tests and generate reports.
 
 ## Results
 - Coverage reports for code, functional, and sequential domains.
