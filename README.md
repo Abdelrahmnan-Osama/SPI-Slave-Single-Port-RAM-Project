@@ -1,4 +1,4 @@
-# SPI Slave Interface with Single-Port RAM Verification
+# SPI Slave Interface with Single-Port RAM Development and Verification
 
 This repository showcases the design and verification of an SPI Slave Interface integrated with a Single-Port RAM. The project demonstrates efficient processor-to-RAM communication using the SPI protocol and robust UVM-based verification techniques.
 
