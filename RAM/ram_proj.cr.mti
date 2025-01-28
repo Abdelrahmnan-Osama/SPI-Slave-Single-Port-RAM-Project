@@ -1,0 +1,58 @@
+{D:/digital verification/projects/SPI/RAM/ram_config.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/RAM/ram_config.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package ram_config_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) D:/digital verification/projects/SPI/RAM/ram_config.sv(3): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/RAM/ram_sqr.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/RAM/ram_sqr.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package ram_sequencer_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package ram_seq_item_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/RAM/ram_sqr.sv(4): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/RAM/ram_monitor.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/RAM/ram_monitor.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package ram_monitor_pkg
+-- Importing package ram_seq_item_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) D:/digital verification/projects/SPI/RAM/ram_monitor.sv(4): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/RAM/ram_driver.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/RAM/ram_driver.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package ram_driver_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package ram_config_pkg
+-- Importing package ram_seq_item_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/RAM/ram_driver.sv(5): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/RAM/ram_env.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/RAM/ram_env.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package ram_env_pkg
+-- Importing package ram_coverage_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package ram_seq_item_pkg
+-- Importing package ram_scoreboard_pkg
+-- Importing package ram_agent_pkg
+-- Importing package ram_monitor_pkg
+-- Importing package ram_config_pkg
+-- Importing package ram_sequencer_pkg
+-- Importing package ram_driver_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/RAM/ram_env.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}}

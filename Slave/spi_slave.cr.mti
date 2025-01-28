@@ -1,0 +1,87 @@
+{D:/digital verification/projects/SPI/Slave/slave_coverage.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_coverage.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_coverage_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package slave_seq_item_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/Slave/slave_coverage.sv(4): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/Slave/slave_test.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_test.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_test_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package slave_seq_pkg
+-- Importing package slave_seq_item_pkg
+-- Importing package slave_env_pkg
+-- Importing package slave_coverage_pkg
+-- Importing package slave_scoreboard_pkg
+-- Importing package slave_agent_pkg
+-- Importing package slave_monitor_pkg
+-- Importing package slave_config_pkg
+-- Importing package slave_sequencer_pkg
+-- Importing package slave_driver_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/Slave/slave_test.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/Slave/slave_env.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_env.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_env_pkg
+-- Importing package slave_coverage_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package slave_seq_item_pkg
+-- Importing package slave_scoreboard_pkg
+-- Importing package slave_agent_pkg
+-- Importing package slave_monitor_pkg
+-- Importing package slave_config_pkg
+-- Importing package slave_sequencer_pkg
+-- Importing package slave_driver_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/Slave/slave_env.sv(6): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/Slave/slave_sqr.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_sqr.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_sequencer_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package slave_seq_item_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/Slave/slave_sqr.sv(4): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/Slave/slave_config.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_config.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_config_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+** Note: (vlog-2286) D:/digital verification/projects/SPI/Slave/slave_config.sv(3): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/Slave/slave_shared.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_shared.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_shared_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/digital verification/projects/SPI/Slave/slave_agent.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/digital verification/projects/SPI/Slave/slave_agent.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package slave_agent_pkg
+-- Importing package mtiUvm.uvm_pkg (uvm-1.1d Built-in)
+-- Importing package slave_seq_item_pkg
+-- Importing package slave_monitor_pkg
+-- Importing package slave_config_pkg
+-- Importing package slave_sequencer_pkg
+-- Importing package slave_driver_pkg
+** Note: (vlog-2286) D:/digital verification/projects/SPI/Slave/slave_agent.sv(8): Using implicit +incdir+C:/questasim64_2021.1/uvm-1.1d/../verilog_src/uvm-1.1d/src from import uvm_pkg
+
+Top level modules:
+	--none--
+
+} {} {}}
